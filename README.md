@@ -1,5 +1,5 @@
 <p align="center">
-    <img src =".github/MapEditor.png" alt = "Project demontration" widht="100%" />
+    <img src =".gitHub/MapEditor.png" alt = "Project demontration" widht="100%" />
 </p>
 
 # 🖥️  MapEditor
