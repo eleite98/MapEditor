@@ -1,3 +1,7 @@
+<p align="center">
+    <img src =".github/preview.png" alt = "Demonstração do projeto" widht="100%" />
+</p>
+
 # 🖥️  MapEditor
 
 The MapEditor is a project developed with Java concepts. This Java application consist in a cursor moving on a grid and painting cells in different available colours (see the commands below). This project allows practicing Java skills with a graphical component using the SimpleGraphicGfx library.
