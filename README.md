@@ -1,9 +1,14 @@
-# MapEditor
+# 🖥️ MapEditor
 
 The MapEditor is a project developed with Java concepts. This Java application consist in a cursor moving on a grid and painting cells in different available colours (see the commands below). This project allows practicing Java skills with a graphical component using the SimpleGraphicGfx library.
 
+## 🚀 Tech Tools
 
-## Commands
+- Java
+- Git and Github
+
+
+## :video_game: Commands
 
 - Use arrow keys to move the cursor ⬆️ ⬅️ :arrow_right: ⬇️ 
 - Press 'space bar' to paint the cell in black ⬛️
