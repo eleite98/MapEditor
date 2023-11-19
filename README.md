@@ -16,7 +16,6 @@ The MapEditor is a project developed with Java concepts. This Java application c
 
 - Use arrow keys to move the cursor ⬆️ ⬅️ :arrow_right: ⬇️ 
 - Press 'space bar' to paint the cell in black ⬛️
-- Press 'P' to paint the cell in pink 🟪
 - Press 'B' to paint the cell in blue 🟦
 - Press 'G' to paint the cell in green 🟩
 - Press 'R' to paint the cell in red 🟥
